@@ -1,0 +1,401 @@
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Course> .
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://gch.utwente.nl/ontology#consistsOf> <http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> .
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://gch.utwente.nl/ontology#consistsOf> <http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> .
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://gch.utwente.nl/ontology#consistsOf> <http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> .
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://gch.utwente.nl/ontology#consistsOf> <http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> .
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://gch.utwente.nl/ontology#consistsOf> <http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> .
+<http://gch.utwente.nl/data/course/70d6518e-2127-4bc8-b274-783b9763c782> <http://www.w3.org/2000/01/rdf-schema#label> "From Data to Geo-information for Natural Resources Management"@en .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#LearningUnit> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#startedBy> <http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://www.w3.org/2000/01/rdf-schema#label> "Conceptual Design of the Case Study"@en .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#LearningUnit> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://www.w3.org/2000/01/rdf-schema#label> "EO and GIS data collection and preparation"@en .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#LearningUnit> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://www.w3.org/2000/01/rdf-schema#label> "Descriptive and inferential statistics for data analysis"@en .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#LearningUnit> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype Development"@en .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#LearningUnit> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype Completion"@en .
+<http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> .
+<http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> <http://www.w3.org/2000/01/rdf-schema#label> "Feedback session "@en .
+<http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> .
+<http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> <http://www.w3.org/2000/01/rdf-schema#label> "Feedback session "@en .
+<http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> .
+<http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> <http://www.w3.org/2000/01/rdf-schema#label> "Feedback session "@en .
+<http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> .
+<http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype Development"@en .
+<http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> .
+<http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> .
+<http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> .
+<http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#FeedbackSession> .
+<http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> .
+<http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> .
+<http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> <http://openrefine.server.pldn.nl/allocatedTime> "30.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/6891df87-276c-4b8c-acb9-11717fa09fcc> <http://www.w3.org/2000/01/rdf-schema#label> "Introduction to the course"@en .
+<http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> .
+<http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> <http://openrefine.server.pldn.nl/allocatedTime> "30.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/1fdb983c-c0e5-44e2-8658-a47c9ee262a7> <http://www.w3.org/2000/01/rdf-schema#label> "Presentation of the case studies"@en .
+<http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> .
+<http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> <http://openrefine.server.pldn.nl/allocatedTime> "30.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/b2fda122-3870-4229-a555-ad49a39ef938> <http://www.w3.org/2000/01/rdf-schema#label> "Conceptual diagram"@en .
+<http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> .
+<http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> <http://www.w3.org/2000/01/rdf-schema#label> "Objectives and Research question definition"@en .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> .
+<http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> .
+<http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> <http://www.w3.org/2000/01/rdf-schema#label> "EO/GIS data requirements - Is the data fit for its purpose? "@en .
+<http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> .
+<http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> <http://openrefine.server.pldn.nl/allocatedTime> "45.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> <http://www.w3.org/2000/01/rdf-schema#label> "How to setup an environmental analysis?"@en .
+<http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> .
+<http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> <http://openrefine.server.pldn.nl/allocatedTime> "45.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/82778648-bf0e-47d7-b745-5e4c9419ade0> <http://www.w3.org/2000/01/rdf-schema#label> "Methodological flow chart definition"@en .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> .
+<http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> .
+<http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/c899b60d-f7fe-41af-a046-70f37ccaa7aa> .
+<http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> <http://www.w3.org/2000/01/rdf-schema#label> "Data acquisition - RS data"@en .
+<http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> .
+<http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> <http://www.w3.org/2000/01/rdf-schema#label> "Introduction of online platforms"@en .
+<http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> .
+<http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/14d1377e-e2df-4d29-91db-df4f1ca4a234> <http://www.w3.org/2000/01/rdf-schema#label> "Building an online geodatabase"@en .
+<http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> .
+<http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> <http://www.w3.org/2000/01/rdf-schema#label> "Filling the geodatabase, metadata."@en .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#finishedBy> <http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#startedBy> <http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> .
+<http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> .
+<http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> <http://www.w3.org/2000/01/rdf-schema#label> "Descriptive statistics"@en .
+<http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> .
+<http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> <http://www.w3.org/2000/01/rdf-schema#label> "inferential statistics"@en .
+<http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Lecture> .
+<http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> .
+<http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> <http://www.w3.org/2000/01/rdf-schema#label> "Inferential statistics"@en .
+<http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> .
+<http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c47aa552-21b8-48a9-b810-377edec98a69> .
+<http://gch.utwente.nl/data/learning_activity/abd76e8e-e24c-4df3-9214-d1a36e5f9a12> <http://www.w3.org/2000/01/rdf-schema#label> "Upload the updated project report"@en .
+<http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#QAndASession> .
+<http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/6a99ddba-c119-4dba-9c50-e7fffee21042> .
+<http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> <http://www.w3.org/2000/01/rdf-schema#label> "Question hour statistics "@en .
+<http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> .
+<http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> <http://openrefine.server.pldn.nl/allocatedTime> "45.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/72e428d3-5e44-4b1c-99c8-b0189892f469> <http://www.w3.org/2000/01/rdf-schema#label> "Group discussions, problem analysis, literature review"@en .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> .
+<http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/171942c9-e602-4618-8059-40e06c73332d> .
+<http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/d443d411-a581-4053-b625-c5486ebb6d18> <http://www.w3.org/2000/01/rdf-schema#label> "Objectives and Research question definition"@en .
+<http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> .
+<http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/fc2d8a8b-badd-4afc-a471-246dfaaedd55> <http://www.w3.org/2000/01/rdf-schema#label> "EO/GIS data requirements"@en .
+<http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/c5d7c6b6-3276-40cf-baeb-23e4e6c54330> .
+<http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/c9f0db73-d860-4115-8680-9a2cd925e5b3> <http://www.w3.org/2000/01/rdf-schema#label> "Case study conceptual design \u2013 data selection"@en .
+<http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> .
+<http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/f3f25951-ee57-4a7e-8e8b-1a3342f61a57> <http://www.w3.org/2000/01/rdf-schema#label> "Case study conceptual design \u2013 diagram preparation"@en .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> .
+<http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> .
+<http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/feecb917-9427-4bb1-a83f-c554bfbc4641> <http://www.w3.org/2000/01/rdf-schema#label> "EO data collection "@en .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/28debb70-eae9-4f72-908b-2df22f8284e2> .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/90f01f8d-d504-4313-a8d8-99ec357eebe8> .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset Preparation "@en .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/7aac0e74-5cee-4e37-b63e-133fc6af5823> .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/90f01f8d-d504-4313-a8d8-99ec357eebe8> .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/404e9249-b7fe-4b5e-a5d6-cbf5f0d0cded> <http://www.w3.org/2000/01/rdf-schema#label> "Building an online geodatabase"@en .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/69c1e933-3e93-4bdf-96c0-ef20c020d6a8> .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/90f01f8d-d504-4313-a8d8-99ec357eebe8> .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/92cce7e1-0a4d-4504-b89f-c75447ab0f95> <http://www.w3.org/2000/01/rdf-schema#label> "Filling the geodatabase, metadata."@en .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> .
+<http://gch.utwente.nl/data/learning_unit/ec89cd68-fc02-42ad-899a-260ad2f58dc5> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> .
+<http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/6bd20529-f549-447f-b7ac-1284c6806b14> .
+<http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c47aa552-21b8-48a9-b810-377edec98a69> .
+<http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/bedeeb53-43d5-4632-a6cd-f324f439ed0c> <http://www.w3.org/2000/01/rdf-schema#label> "Supervised Statistical Exercise"@en .
+<http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/f2de0477-5cd8-4265-8ae9-ef4ae69b2070> .
+<http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c47aa552-21b8-48a9-b810-377edec98a69> .
+<http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/bc5e5f28-66a3-4da7-b12f-3d9b81627a82> <http://www.w3.org/2000/01/rdf-schema#label> "Supervised Statistical Exercise "@en .
+<http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/ee1dfd10-bf1d-4ea4-b091-823ee23cb41f> .
+<http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c47aa552-21b8-48a9-b810-377edec98a69> .
+<http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a4802fea-1de1-41bf-8343-9a1b0909e0da> .
+<http://gch.utwente.nl/data/learning_activity/d1ec4b86-7720-4b00-9b6f-697d20411174> <http://www.w3.org/2000/01/rdf-schema#label> "Supervised Statistical Exercise "@en .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#startedBy> <http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/1c149ec7-8f97-425c-9e68-b81efaf98d7f> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype Development"@en .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/1c149ec7-8f97-425c-9e68-b81efaf98d7f> .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype Development"@en .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#SupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/1c149ec7-8f97-425c-9e68-b81efaf98d7f> .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/d1915fd4-08a2-41b1-9186-65203935a247> .
+<http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype Development"@en .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#finishedBy> <http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> .
+<http://gch.utwente.nl/data/learning_unit/c3d79619-ff49-49cd-a3dd-af388b3180d9> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> .
+<http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Tutorial> .
+<http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/afbebd02-0906-4c18-90e8-2a87b73cd0d3> .
+<http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> <http://openrefine.server.pldn.nl/allocatedTime> "45.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/a99b0ffb-2bcd-4c26-bde4-e9fc77de597d> .
+<http://gch.utwente.nl/data/learning_activity/7e5d6a43-c354-4e06-a73f-e058751eaa7c> <http://www.w3.org/2000/01/rdf-schema#label> "Tutorial NCIFI account"@en .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#finishedBy> <http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> .
+<http://gch.utwente.nl/data/learning_unit/b9dd009d-6fbf-4ba4-8369-29b1df040d8f> <http://gch.utwente.nl/ontology#startedBy> <http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> .
+<http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Tutorial> .
+<http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/5c67d59d-190a-49bd-b5e0-ee13adb13153> .
+<http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> <http://www.w3.org/2000/01/rdf-schema#label> "EO/ GIS data collection (GEE)"@en .
+<http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Tutorial> .
+<http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/fb9e30bf-c5f2-49f6-bcfa-3888d3c78539> .
+<http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/ed7fb826-7991-4423-abfa-cce0f81c156b> <http://www.w3.org/2000/01/rdf-schema#label> "EO/GIS data collection (GEE)"@en .
+<http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Tutorial> .
+<http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/f116c584-74d0-43cc-857b-59c3bed618dd> .
+<http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/a2ee2324-c9e8-4666-8592-ef5326474c6d> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development (GEE)"@en .
+<http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Tutorial> .
+<http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/f47d016c-1c76-4466-8f2f-d818a5752c9d> .
+<http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/1243376a-cd16-482e-a88e-9f8a877a512b> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development (GEE)"@en .
+<http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#Tutorial> .
+<http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/fca4b38e-47ec-45b5-bf55-66f9f55b4e10> .
+<http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> <http://openrefine.server.pldn.nl/hasTeachers> <http://gch.utwente.nl/data/user/6398daf2-9eb1-4118-a059-34e29cbf3bab> .
+<http://gch.utwente.nl/data/learning_activity/d96d9bf1-09d0-4c6c-bc47-b4d87f9fc3a7> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development (GEE)"@en .
+<http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/33d0e4d3-6333-4401-9c72-0d0941a514c0> .
+<http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/ab1fb279-5027-401d-8f69-c8b5faf67730> .
+<http://gch.utwente.nl/data/learning_activity/3e5aeed1-70b3-4b5f-9dea-7af2424c55ad> <http://www.w3.org/2000/01/rdf-schema#label> "Case study conceptual design"@en .
+<http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/ff46ab42-2bfe-485f-b622-e8eca909a0de> .
+<http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/ab1fb279-5027-401d-8f69-c8b5faf67730> .
+<http://gch.utwente.nl/data/learning_activity/bd2028f6-19c2-4d17-99cd-79b8e7a912b0> <http://www.w3.org/2000/01/rdf-schema#label> "The first version of the project report"@en .
+<http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/631536a0-308b-4d24-b9b1-8db8a38f355e> .
+<http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/4800719d-8796-4afc-aa3b-3a051008e0be> .
+<http://gch.utwente.nl/data/learning_activity/73c09b9a-685c-43a9-a5eb-88c35bc10322> <http://www.w3.org/2000/01/rdf-schema#label> "Updated project report"@en .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#finishedBy> <http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> .
+<http://gch.utwente.nl/data/learning_unit/6a11ac22-390d-4515-98ca-647178dee0b4> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> .
+<http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/aac8d8bc-197b-4e0d-83b4-108d2b54f2cb> .
+<http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/1c149ec7-8f97-425c-9e68-b81efaf98d7f> .
+<http://gch.utwente.nl/data/learning_activity/78204723-4b83-47c3-87fe-0d780225d1bc> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development (GEE)"@en .
+<http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> .
+<http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> <http://openrefine.server.pldn.nl/allocatedTime> "90.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/78e75b31-7f5e-417e-9d90-198f2d9f8caf> .
+<http://gch.utwente.nl/data/learning_activity/6fc65203-351d-441a-ba37-a25bd49885b6> <http://www.w3.org/2000/01/rdf-schema#label> "Upload the updated project report"@en .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#finishedBy> <http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#goesThrough> <http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> .
+<http://gch.utwente.nl/data/learning_unit/23aff3a9-c52b-41bc-a3d2-478c4b4e2dc3> <http://gch.utwente.nl/ontology#startedBy> <http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> .
+<http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/e0c80fc0-3bc9-4a34-85a7-1c9a8915c99e> .
+<http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/cdeab185-bfd2-45f3-a3ab-ec946516db51> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/be56e25b-bbc9-4c93-a726-094f4af6890a> .
+<http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c28ae720-c92b-480f-8402-b4e7ab17396d> .
+<http://gch.utwente.nl/data/learning_activity/52a402f9-52c5-4e7c-8b6c-fb32007dedb5> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/02f6d84a-af31-40f5-adf7-a3cce9d1ba58> .
+<http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c28ae720-c92b-480f-8402-b4e7ab17396d> .
+<http://gch.utwente.nl/data/learning_activity/8c21dad0-4010-472b-9658-1e36827efff3> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/08129cff-c439-4065-bfda-1b3c5985d26b> .
+<http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> <http://openrefine.server.pldn.nl/allocatedTime> "180.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c28ae720-c92b-480f-8402-b4e7ab17396d> .
+<http://gch.utwente.nl/data/learning_activity/cc0d7887-506c-495e-ad2a-226ce7164dc4> <http://www.w3.org/2000/01/rdf-schema#label> "Prototype development"@en .
+<http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> .
+<http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> <http://openrefine.server.pldn.nl/allocatedTime> "30.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/c28ae720-c92b-480f-8402-b4e7ab17396d> .
+<http://gch.utwente.nl/data/learning_activity/9c8b3d91-1595-43f4-a1f7-2d6f62cbc5c2> <http://www.w3.org/2000/01/rdf-schema#label> "Upload the final project report"@en .
+<http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> <http://gch.utwente.nl/ontology#followedBy> <http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> .
+<http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> <http://openrefine.server.pldn.nl/allocatedTime> "30.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/be087278-f2ee-4e86-9039-5f5595f5cbea> .
+<http://gch.utwente.nl/data/learning_activity/977adc9d-4178-4bc4-89d1-c7f2bdf2a612> <http://www.w3.org/2000/01/rdf-schema#label> "Upload the Final Dataset"@en .
+<http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://gch.utwente.nl/ontology#UnsupervisedPractical> .
+<http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> <http://openrefine.server.pldn.nl/allocatedTime> "30.0"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> <http://openrefine.server.pldn.nl/hasAssignment> <http://gch.utwente.nl/data/learning_activity/6ce77c66-2f1c-445c-b0bd-ff79c89bb48a> .
+<http://gch.utwente.nl/data/learning_activity/fb4540c4-ff4f-4650-a138-1c9468f2c91e> <http://www.w3.org/2000/01/rdf-schema#label> "Upload the Prototype"@en .
